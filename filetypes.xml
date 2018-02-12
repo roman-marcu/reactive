@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Dockerfile" type="Manifest" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="envrc" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

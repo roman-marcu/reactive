@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube:9000/sonar" />
+          <option name="name" value="CRF SQ" />
+          <option name="login" value="rmarcu" />
+          <password>dfc9dfd8dfccdfe2dfcfdfcbdfc6dfdedfc2df9bdf98df99</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
