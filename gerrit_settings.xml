@@ -1,3 +1,0 @@
-<application>
-  <component name="GerritSettings" Login="rmarcu" Host="https://devel.crfhealth.com/gerrit" ListAllChanges="true" AutomaticRefresh="true" RefreshTimeout="1" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="false" />
-</application>
