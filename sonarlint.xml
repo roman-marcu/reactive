@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube:9000/sonar" />
+          <token>dfc9df9fdf98df99df9bdfcbdfc9df92dfcfdfc9df9cdfcfdfcbdfcedf98df9adf9bdfc9df92df9cdf98df93dfcedfc9df93df93dfccdf9fdf9fdfccdf9ddf98df93dfc8df9cdf9ddf9adf9fdf9fdf9f</token>
+          <option name="name" value="crf_health_sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
