@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
+      <mapping ext="md5" type="PLAIN_TEXT" />
       <mapping ext="envrc" type="PLAIN_TEXT" />
       <mapping pattern="study_perssonel_log" type="SourceMap" />
     </extensionMap>
