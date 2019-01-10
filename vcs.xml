@@ -14,4 +14,7 @@
     </option>
     <option name="cloneParentDir" value="C:\my_projects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/projects/usefull_txt" />
+  </component>
 </application>
