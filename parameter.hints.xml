@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="com.crfbox.tcprintservice.model.Page.Page(mapper,jsonObject)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
